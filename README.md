@@ -12,7 +12,7 @@
 
 ## 📧   Vamos nos conectar? Você pode me encontrar aqui no GitHub ou em:
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoleonardotc@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=brunoleonardotc@gmail.com&su=Assunto%20do%20e-mail&body=Corpo%20da%20mensagem)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-leonardo-549a4024a/)
 
 ### Vamos codar juntos! 💻✨
