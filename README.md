@@ -2,7 +2,7 @@
 
 🚀 Sou um estudante de programação apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou aprimorando minhas habilidades em Java, enquanto procuro por novos desafios para adquirir boas experiências.
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno_Leonardo7&show_icons=true&theme=dark&locale=pt-br&rank_icon=github&layout=compact)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Leonardo7&show_icons=true&theme=merko&locale=pt-br&rank_icon=github&layout=compact)
 
 ## 💻 Essas são algumas das tecnologias com as quais tenho trabalhado recentemente:
 <div style="display: inline_block"><br/>
