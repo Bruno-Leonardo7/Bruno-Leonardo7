@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Bruno Leonardo!
 
-🚀 Sou um estudante de programação apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou aprimorando minhas habilidades em Java, enquanto procuro por novos desafios para adquirir boas experiências.
+🚀 Sou um estudante de programação apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou aprimorando minhas habilidades em Python, enquanto procuro por novos desafios para adquirir boas experiências.
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Leonardo7&show_icons=true&theme=merko&locale=pt-br&rank_icon=github&layout=compact)
 
